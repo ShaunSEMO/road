@@ -1,39 +1,19 @@
-Update business dash repo
-Update edunnect dash
+WTC
+	Practice what we've learned so far
+	Get Started with second year
+	Projects priority
 
+Tech With T
+	Set up web portfolio
+		Nothing about me. Everything about my skills	
+	Set up podcast
+	Podcast graphic
+	Format
+		Episode format
+		Video episode template
+	Episode Planning
+	Set Up social media 
 
-QH Consultants
-	Biztweak redo
-		Add Biz_field field on category and biz score model
-		Add biz_rating
-		Add hours of service to priorities
-	Maintenance
-		Server security
-	Setup cloud accounts
-	Setup sprint accounts
-	Look into processes
-		
-
-ThinkSuite
-	Finish up dev
-	Waiting for response
-
-SwayDev
-	Content Strategy
-	Business Account
-	Portfolio
-	Print Work
-	Shirts
-	Tech With T
-		Podcast graphic
-		Format
-			Episode format
-			Video episode template
-		Episode Planning
-
-Other (freelance)
-	Casa Design, link in emails
-	OwnedBy Design
 
 ********
 Learning
@@ -56,11 +36,8 @@ Math
 	Calculus
 	Discrete Math
 
-Physics
 
 Engineering
-
-Life Science
 
 South African History
 
@@ -70,6 +47,7 @@ Reading
 Ego Is The Enemy [DONE]
 The Alchemist [DONE]
 Meditations
+The Flowering Of Human Conciousness
 Indaba My Children
 Ancient Secrets of the flower of life
 1984 George Orwell
@@ -80,4 +58,10 @@ The Fifth Science
 ********
 Practice
 ********
-
+Java
+	OOP Basics
+		-Encapsulation [DONE]
+		-Polymorphism
+		-Abstraction
+		-Inheritence
+	Java Socket Programming
