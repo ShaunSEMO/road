@@ -1,0 +1,83 @@
+Update business dash repo
+Update edunnect dash
+
+
+QH Consultants
+	Biztweak redo
+		Add Biz_field field on category and biz score model
+		Add biz_rating
+		Add hours of service to priorities
+	Maintenance
+		Server security
+	Setup cloud accounts
+	Setup sprint accounts
+	Look into processes
+		
+
+ThinkSuite
+	Finish up dev
+	Waiting for response
+
+SwayDev
+	Content Strategy
+	Business Account
+	Portfolio
+	Print Work
+	Shirts
+	Tech With T
+		Podcast graphic
+		Format
+			Episode format
+			Video episode template
+		Episode Planning
+
+Other (freelance)
+	Casa Design, link in emails
+	OwnedBy Design
+
+********
+Learning
+********
+CS Theory
+
+Career
+	Entire ReactJS
+	Learn React Native
+	Finish SQL
+	C
+	Learn Networking
+	Ethical Hacking/Pen testing
+	Machine Learning
+
+Math
+	Binary Math
+	College Algebra
+	Statistics
+	Calculus
+	Discrete Math
+
+Physics
+
+Engineering
+
+Life Science
+
+South African History
+
+********
+Reading
+********
+Ego Is The Enemy [DONE]
+The Alchemist [DONE]
+Meditations
+Indaba My Children
+Ancient Secrets of the flower of life
+1984 George Orwell
+Sello Duiker
+The Fifth Science
+
+
+********
+Practice
+********
+

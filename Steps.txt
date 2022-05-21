@@ -1,0 +1,28 @@
+BLM E-mails***
+
+T3erney
+	Site design
+
+BizTweak
+	-Update on new PHP dev***
+	-Finish up [Change Questions for Biz Info section***
+	-Dev API and interface structure**
+	-E mails
+	
+Fika Dev
+	-Finish up front end**
+
+	
+React
+C
+
+
+
+* -7 days
+** -4 days
+*** -2 day
+
+Apache server security
+Document company tech infrustructure
+Web scraper
+BizTweak platform update
