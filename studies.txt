@@ -1,0 +1,17 @@
+----
+REPL
+----
+- My explaination -
+An REPL (Read Evaluate Print Loop), is a program that expects user input,
+processes that user input, prints out the results, then loop back into the
+input listener. I'd say it's basically a terminal. Examples might be NodeJS'
+bash, Python's Shell, Linux Bash.
+
+- Digital ocean -
+A Read-Eval-Print Loop, or REPL, is a computer environment 
+where user inputs are read and evaluated, and then 
+the results are returned to the user. REPLs provide an interactive
+ environment to explore tools available in specific environments or 
+programming languages. Some examples include the Node.js console, 
+IPython, the Bash shell, and the developer console found 
+in most web browsers.
