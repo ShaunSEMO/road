@@ -1,3 +1,4 @@
+Learn and understand LISP
 Check out some terminal customizations
 Make work env setup bash script
 Go over socket programming in Java/Python

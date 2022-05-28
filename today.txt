@@ -1,2 +1,3 @@
-Continue java practice
-	-Polymorphism
+-Call up Nthabs on explaination of project
+-Start on Lisps tut
+-Check up on external coding programs i.e. mtn app of the year
