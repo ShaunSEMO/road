@@ -1,3 +1,5 @@
--Call up Nthabs on explaination of project
--Start on Lisps tut
+-Read up on project and get full understanding
+-Note down understand and break up into tasks
+
+*
 -Check up on external coding programs i.e. mtn app of the year
