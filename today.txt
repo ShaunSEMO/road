@@ -1,5 +1,11 @@
 -Read up on project and get full understanding
 -Note down understand and break up into tasks
+	-Setup the initial backlog with the current stories
+	-Update backlog as you get further understanding of the project
+
+-Get understanding of full functionality of previous project and the
+function that were required of it
+-Pick functions to work on
 
 *
 -Check up on external coding programs i.e. mtn app of the year
