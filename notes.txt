@@ -4,3 +4,4 @@ Make work env setup bash script
 Go over socket programming in Java/Python
 Look up on functional and logic programming
 Learn flutter
+Get link to Placement program video

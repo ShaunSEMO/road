@@ -33,3 +33,11 @@ into executable tasks. Which is a practice we will need to maintain throughout
 our career.
 It's a way of us communicating who is busy with what, and what their progress
 is with that task.
+
+------------------
+Acceptance Testing
+------------------
+Acceptance testing is basically testing the UI. Testing the output of specific functions
+as opposed to testing their functionality.
+Mock out external dependancies and data that is required for the output that being tested. "Mock the
+necessary data because mocking out too much can introduce a brittle design"

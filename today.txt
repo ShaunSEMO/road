@@ -6,6 +6,7 @@
 -Get understanding of full functionality of previous project and the
 function that were required of it
 -Pick functions to work on
-
+	-Fix up stateCommand
+	-Write tests for stateCommand
 *
 -Check up on external coding programs i.e. mtn app of the year
