@@ -41,3 +41,8 @@ Acceptance testing is basically testing the UI. Testing the output of specific f
 as opposed to testing their functionality.
 Mock out external dependancies and data that is required for the output that being tested. "Mock the
 necessary data because mocking out too much can introduce a brittle design"
+
+According to my understanding. In this section they are teaching us 
+to seperate the required functions into executable tasks and then furthermore
+Those functions being the stories, the different test cases we will have 
+for those functions will be reflecting the different scenarios on the story.

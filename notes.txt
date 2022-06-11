@@ -1,7 +1,8 @@
 Learn and understand LISP
 Check out some terminal customizations
 Make work env setup bash script
-Go over socket programming in Java/Python
+*** Go over socket programming in Java/Python
+*** Practice the OOP concepts we've gone over
 Look up on functional and logic programming
 Learn flutter
 Get link to Placement program video
