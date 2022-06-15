@@ -18,6 +18,8 @@ Tech With T
 ********
 Learning
 ********
+Java
+
 CS Theory
 
 Career
@@ -46,7 +48,7 @@ Reading
 ********
 Ego Is The Enemy [DONE]
 The Alchemist [DONE]
-Meditations
+Meditations [DONE] - Re-read (8)
 The Flowering Of Human Conciousness
 Indaba My Children
 Ancient Secrets of the flower of life
