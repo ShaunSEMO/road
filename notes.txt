@@ -6,3 +6,22 @@ Make work env setup bash script
 Look up on functional and logic programming
 Learn flutter
 Get link to Placement program video
+Research database indexes
+
+Maven lifecycle:
+	https://www.geeksforgeeks.org/maven-lifecycle-and-basic-maven-commands/
+
+------------
+Network programming using sockets
+Concurrency using threads
+Implementing a simple application protocol
+Serialization and deserialization of data for transmission over the network
+------------
+
+
+------------
+Socket programming with Java
+Concurrency and threads in Java
+JSON Serialisation in Java
+Optional: Logging in Java
+------------

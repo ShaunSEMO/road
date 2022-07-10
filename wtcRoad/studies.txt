@@ -1,3 +1,48 @@
+Quick overview of Robot Worlds
+------------------------------
+Server - Hosts the world, waiting for client to connect and launch a robot
+into it. The world it hosts is hard coded with size variables and one 
+obstacle
+	Funcs
+	-----
+	- Iteration 1 -
+	- quit - disconnect all robots and ends the world.
+	- robots - lists all robots in the world, including robot name 
+		and state
+	- dump - displays a representation of the world’s state showing 
+		robots, obstacles, and anything else in the world that 
+		you programmed.
+
+	- Iteration 2 -
+	- make world size configurable
+	- add more obstacles
+	- robots command to show state of each robot
+
+	- Iteration 3 -
+	- Add conf for visibility, shields and reloading
+
+Client - Launch robots into the world. On a single client you're able to
+launch your robot and control it from that client. Navigating the host
+robot world on the server
+	Funcs
+	-----
+	- Iteration 1 -
+	- look - ingoring visibility constraints, can see everything in its
+		line of sight
+	- state - view the current state of the robot
+	
+	- Iteration 2 -
+	- Movements (forward, back, left and right)
+	- Visibility constraints for look
+	- fire - taking into account number of shots and bullet travel 
+		distance
+	
+	- Iteration 3 -
+	- Count hits taken minus from shield
+	- repair - repair the robots shield
+	- reload - reload robot bullets
+	
+
 ---------------------------
 | Brownfields development |
 ---------------------------
@@ -7,3 +52,26 @@ Iteration 2
 
 Requirements --
 *
+
+
+
+
+
+
+Iteration 3
+-----------
+
+Save RobotWorld in Db by command 'save'
+-Size of world
+-positions and sizes of obstacles
+-bottomless pits and mines
+-Only store one single world
+
+Restore World in DB by 'restore' command
+
+Allow for saving and restoring many different worlds, incorporate for when 
+user tries to save world with the same name, refuse? overwrite? let user
+ choose?
+
+Must have acceptance test 
+and data access unit tests
