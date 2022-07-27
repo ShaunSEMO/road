@@ -1,0 +1,7 @@
+-WTC
+	-Curriculum
+	-Bootcamp volunteer
+-Personal
+	-Craft
+	-Hackerthon
+	-Learning
