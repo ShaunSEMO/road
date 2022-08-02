@@ -1,10 +1,7 @@
--Make save default
--Make db test pass when run as a whole
+-Read up on iteration 5
 -Read up on iteration 4
 -Recal git stories/issues
 
 -Regatammogo poster mockup
-
--Catch up on EPF hackathon
 
 -Check up on external coding programs i.e. mtn app of the year
