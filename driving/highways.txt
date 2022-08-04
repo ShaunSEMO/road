@@ -4,4 +4,6 @@
 -Personal
 	-Craft
 	-Hackerthon
-	-Learning
+-Learning
+	-flutter
+	-svelte

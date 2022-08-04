@@ -2,9 +2,8 @@
 -Read up on iteration 4
 -Recal git stories/issues
 
--Regatammogo poster mockup
 -Interview readiness prep
-
+-Learn flutter
 -GUDE Development report
 
 -Check up on external coding programs i.e. mtn app of the year
