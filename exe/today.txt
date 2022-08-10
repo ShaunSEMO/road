@@ -1,3 +1,4 @@
-Continue timolo dev
+-Continue timolo dev
 -Read through iteration 6
 -Continue flutter
+-Get started on interview readiness prep
