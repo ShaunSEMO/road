@@ -1,0 +1,4 @@
+-Updated business CMS to new laravel version
+-Completed Timolo desktop design
+-Setup Timolo site dev with CMS ready
+-Read through Iteration 6
