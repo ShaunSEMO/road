@@ -1,4 +1,3 @@
 -Continue timolo dev
--Read through iteration 6
--Continue flutter
+-Continue svelte course
 -Get started on interview readiness prep
