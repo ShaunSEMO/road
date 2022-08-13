@@ -1,1 +1,2 @@
 -Went through Svelte course
+-Finished svelte course
