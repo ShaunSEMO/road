@@ -1,5 +1,8 @@
--Read up on iteration 4
 -Recal git stories/issues
+
+-Tech stacks crud
+-Blog read design
+-Finish complete site UX
 
 -Interview readiness prep
 -Learn flutter

@@ -1,3 +1,3 @@
--Continue timolo dev
--Review svelte course code 
+-Stacks crud
+-Full flow
 -Get started on interview readiness prep

@@ -1,2 +1,1 @@
--Went through Svelte course
--Finished svelte course
+-Home page basic layout done
