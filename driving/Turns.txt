@@ -1,7 +1,6 @@
 WTC
 	Practice what we've learned so far
-	Get Started with second year
-	Projects priority
+	Learn flutter to ready for next Iteration
 
 Tech With T
 	Set up web portfolio
@@ -49,11 +48,12 @@ Reading
 Ego Is The Enemy [DONE]
 The Alchemist [DONE]
 Meditations [DONE] - Re-read (8)
+12 Rules for life
 The Flowering Of Human Conciousness
 Indaba My Children
 Ancient Secrets of the flower of life
 1984 George Orwell
-Sello Duiker
+Maps of meaning
 The Fifth Science
 
 

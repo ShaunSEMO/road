@@ -1,5 +1,3 @@
--Recal git stories/issues
-
 -Tech stacks crud
 -Blog read design
 -Finish complete site UX
@@ -9,3 +7,11 @@
 -GUDE Development report
 
 -Check up on external coding programs i.e. mtn app of the year
+
+
+-IBM Cert
+	-All current languages
+-LinkedIn Cert
+	-All current languages
+-Hackerrank cert
+	-All current langs

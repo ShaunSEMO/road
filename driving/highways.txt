@@ -1,9 +1,11 @@
 -WTC
 	-Curriculum
-	-Bootcamp volunteer
 -Personal
 	-Craft
-	-Hackerthon
 -Learning
 	-flutter
-	-svelte
+
+-Daily challange
+	-Daily learning challange, every day, 
+	study a specific topic in CS Thoery and come
+	to it's full understanding

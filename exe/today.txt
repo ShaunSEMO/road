@@ -1,3 +1,1 @@
--Stacks crud
--Full flow
--Get started on interview readiness prep
+-Continue timolo dev
