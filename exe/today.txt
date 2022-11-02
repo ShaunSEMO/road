@@ -1,1 +1,3 @@
 -Continue timolo dev
+-Read current iteration requirements
+-Redo SETA Video

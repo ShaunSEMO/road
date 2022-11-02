@@ -1,9 +1,12 @@
 -WTC
-	-Curriculum
+	-Mobile dev
+	-WeShare SPA
 -Personal
 	-Craft
 -Learning
 	-flutter
+-EPF Inc Hub
+	-MediLyft
 
 -Daily challange
 	-Daily learning challange, every day, 

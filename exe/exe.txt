@@ -1,6 +1,9 @@
--Tech stacks crud
--Blog read design
--Finish complete site UX
+-Read up on current iteration
+
+-Finish styling
+-Test
+-Finalise
+-Deploy
 
 -Interview readiness prep
 -Learn flutter
@@ -15,3 +18,4 @@
 	-All current languages
 -Hackerrank cert
 	-All current langs
+

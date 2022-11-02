@@ -1,6 +1,6 @@
 WTC
-	Practice what we've learned so far
-	Learn flutter to ready for next Iteration
+	Finish up Dev 4 section of WeShare SPA
+	Read through what's required for ModDev elective
 
 Tech With T
 	Set up web portfolio
@@ -67,3 +67,5 @@ Java
 		-Abstraction
 		-Inheritence
 	Java Socket Programming
+Python
+	MVC build from scratch
