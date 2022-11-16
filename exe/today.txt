@@ -1,3 +1,2 @@
--Continue timolo dev
--Read current iteration requirements
--Redo SETA Video
+-Continue OOP Learning
+-Get started with current week project

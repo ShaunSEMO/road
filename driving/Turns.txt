@@ -2,9 +2,7 @@ WTC
 	Finish up Dev 4 section of WeShare SPA
 	Read through what's required for ModDev elective
 
-Tech With T
-	Set up web portfolio
-		Nothing about me. Everything about my skills	
+Tech With T	
 	Set up podcast
 	Podcast graphic
 	Format

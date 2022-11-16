@@ -1,15 +1,7 @@
 -Read up on current iteration
 
--Finish styling
--Test
--Finalise
--Deploy
-
--Interview readiness prep
 -Learn flutter
 -GUDE Development report
-
--Check up on external coding programs i.e. mtn app of the year
 
 
 -IBM Cert

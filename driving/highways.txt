@@ -1,6 +1,5 @@
 -WTC
 	-Mobile dev
-	-WeShare SPA
 -Personal
 	-Craft
 -Learning
