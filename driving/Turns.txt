@@ -1,8 +1,6 @@
-WTC
-	Finish up Dev 4 section of WeShare SPA
-	Read through what's required for ModDev elective
-
-Tech With T	
+tshegodev
+	Setup blog
+		Research first article topic and write	
 	Set up podcast
 	Podcast graphic
 	Format
@@ -11,6 +9,12 @@ Tech With T
 	Episode Planning
 	Set Up social media 
 
+Project NFC
+	-In-depth research
+		-Problem study and observation/ data collection
+		-Technical research (Tech stacks and RV systems)
+	-Pitch and design
+Complete an official UI/UX course and keep practising
 
 ********
 Learning

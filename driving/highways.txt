@@ -1,13 +1,21 @@
--WTC
-	-Mobile dev
+Work
+--------------
+Learn React
+
+
+Career
+--------------
+
 -Personal
 	-Craft
+		-Maintanence and growth of portfolio/profile
+		-Projects
+	-Project NFC
+
 -Learning
 	-flutter
--EPF Inc Hub
-	-MediLyft
 
 -Daily challange
 	-Daily learning challange, every day, 
-	study a specific topic in CS Thoery and come
+	study a specific topic in CS Theory and come
 	to it's full understanding
