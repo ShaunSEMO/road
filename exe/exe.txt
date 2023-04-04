@@ -1,8 +1,11 @@
--Read up on current iteration
+-A quick design based on the color palette of a scenery
+
+-Java concepts code
+
+-CS Theory
 
 -Learn flutter
 -GUDE Development report
-
 
 -IBM Cert
 	-All current languages

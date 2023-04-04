@@ -8,6 +8,7 @@ Career
 
 -Personal
 	-Craft
+		-Up skilling with hackerranks and others
 		-Maintanence and growth of portfolio/profile
 		-Projects
 	-Project NFC
@@ -16,6 +17,4 @@ Career
 	-flutter
 
 -Daily challange
-	-Daily learning challange, every day, 
-	study a specific topic in CS Theory and come
-	to it's full understanding
+	-1 hackerrank a day
