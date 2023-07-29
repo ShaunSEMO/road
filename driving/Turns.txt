@@ -14,7 +14,6 @@ Project NFC
 		-Problem study and observation/ data collection
 		-Technical research (Tech stacks and RV systems)
 	-Pitch and design
-Complete an official UI/UX course and keep practising
 
 ********
 Learning
