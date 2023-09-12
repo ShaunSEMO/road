@@ -1,0 +1,74 @@
+---------------
+|Current Focus|
+---------------
+1. Pick stock with phone, scanning app [In progress]
+	-Get her to do stock fixes
+		-Write manual for stock fixes
+1.2 Add following lines on verification table. Pick line, item id, qty [Done]
+1.3 Manuals for what's working already (Will continue after picking with phone)
+2. Moving(locating) stock with phone, scanning app [Next]
+
+Catch up the manufacturing orders to the current one
+
+-Bulk operations to follow (Radel bulk: store finished product, deliv. orders, receipts, transfers, shipped receipts, pick components
+
+Execution order
+---------------
+Temperature sensor project
+Load cell project
+Python Odoo
+
+----------
+|Learning|
+----------
+-Dig deeper into Python OOP
+-Dot Net Crash Course
+
+------
+|Deon|
+------
+-No space for the locations. Different items being squashed in with one bin on the location [Deal with as you work on locating]
+
+-Items have one batch, but kitters only take from one box not the whole box [Deal with once pick stock is ready, as you encounter the problem]
+
+------------------------------------------------
+|Others (Things to look at mentioned by Hentus)|
+------------------------------------------------
+-Find storage solution that will be suitable for a fully automated warehouse
+stock taking, sales report
+-Wheres the stock button 
+-Get Sreelakshmi to enable access to shortage list for Inventory/User
+-Find way to link Quality Alerts to Picking list, deduct from picking list to make new transfer from stock to prod.
+-Customer returns, few items need to be replaced, you take those items to fix prod, fix happens, and sent out to customer again. How to implement on the system. Fix transfer, which auto adjusts stock, depreciating from the batch the items were taken from. Once fix is done and returned to customer, the fix transfer is validated
+
+-create db named radel for nicolai, 2 different users, one full access, other read only access
+
+-stock_immediate_transfer_line
+
+-For the shortage list, in order for it to be balanced with correct data, 
+
+----
+|Qs|
+----
+-MO BULK/00352 Transfer BULK/PICK/00444 Item Z520-0329 has more than the MOs demanded qty in Bulk/Stock but can't be reserved for the MO - seems to be the case with some of the other items as well.
+-Shortenned location name
+-What happens if when doing a batch fix, there is only one batch which is
+on negative and no other batch to take from - small example; Z404-0076B
+
+----------
+|Projects|
+----------
+-Load cell project
+-Temperature and Humidity sensor project
+---Both the above should be working with a transactional database, no delete, just update---
+-Inject python into odoo, understand more what needs to be done
+
+----------
+|Planning|
+----------
+
+Temperature sensor
+------------------
+Log each device onto DB. Device ID, Device location, Installation date, Person responsible, Online status, last reading
+
+Make a DB for it, following the above schema. Making it register to the DB accordingly. View data on odoo 
