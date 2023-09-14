@@ -4,13 +4,12 @@
 1. Pick stock with phone, scanning app [In progress]
 	-Get her to do stock fixes
 		-Write manual for stock fixes
-1.2 Add following lines on verification table. Pick line, item id, qty [Done]
 1.3 Manuals for what's working already (Will continue after picking with phone)
-2. Moving(locating) stock with phone, scanning app [Next]
+2. Moving(locating) stock with phone, scanning app [Next] [DONE: Testing]
 
 Catch up the manufacturing orders to the current one
 
--Bulk operations to follow (Radel bulk: store finished product, deliv. orders, receipts, transfers, shipped receipts, pick components
+-Bulk operations to follow (Radel bulk: store finished product, deliv. orders, receipts, transfers, shipped receipts, pick components)
 
 Execution order
 ---------------
@@ -21,7 +20,7 @@ Python Odoo
 ----------
 |Learning|
 ----------
--Dig deeper into Python OOP
+-Dig deeper into Python OOP * Key (Weekend Focus)
 -Dot Net Crash Course
 
 ------
@@ -34,14 +33,12 @@ Python Odoo
 ------------------------------------------------
 |Others (Things to look at mentioned by Hentus)|
 ------------------------------------------------
--Find storage solution that will be suitable for a fully automated warehouse
-stock taking, sales report
+-stock taking, sales report
 -Wheres the stock button 
 -Get Sreelakshmi to enable access to shortage list for Inventory/User
 -Find way to link Quality Alerts to Picking list, deduct from picking list to make new transfer from stock to prod.
 -Customer returns, few items need to be replaced, you take those items to fix prod, fix happens, and sent out to customer again. How to implement on the system. Fix transfer, which auto adjusts stock, depreciating from the batch the items were taken from. Once fix is done and returned to customer, the fix transfer is validated
 
--create db named radel for nicolai, 2 different users, one full access, other read only access
 
 -stock_immediate_transfer_line
 
