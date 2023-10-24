@@ -1,6 +1,8 @@
 Odoo scanning (locating, picking)
 Manuals
+
 Odoo 16 testing
 Stormill locations
 Hansa-Odoo imports
+
 Learning Odoo dev

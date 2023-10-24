@@ -1,6 +1,8 @@
 Work
 --------------
-Learn React
+Learn Odoo Development
+Thermos project
+Reports UI rework
 
 
 Career
