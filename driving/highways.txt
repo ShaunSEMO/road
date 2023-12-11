@@ -1,3 +1,10 @@
+!!Holiday focus!!
+-----------------
+Learn Ethical Hacking
+Learn Odoo framework
+Thermo Project
+Get TimoDev rolling
+
 Work
 --------------
 Learn Odoo Development

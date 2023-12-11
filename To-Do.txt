@@ -39,6 +39,7 @@ on negative and no other batch to take from - small example; Z404-0076B
 ----------
 |Projects|
 ----------
--Temperature and Humidity sensor project
+-Thermo Projects
 ---Both the above should be working with a transactional database, no delete, just update---
+-Reports UI revamp
 -Inject python into odoo, understand more what needs to be done
